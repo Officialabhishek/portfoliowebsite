@@ -1,0 +1,113 @@
+body {
+    background-color: grey;
+    /*background-image:url(back.jpg);*/
+  }
+
+  img {
+    margin-left: 35%;
+    border-radius: 50%;
+    align-content: center;
+    opacity: 0.7;
+  }
+
+  h1 {
+    color: white;
+    font-style: italic;
+    margin-right: 35%;
+    text-align: right;
+    position: relative;
+  }
+
+  h2 {
+    color: black;
+    text-shadow: 5px 2px lightgray;
+    text-align: center;
+    padding: 10px;
+  }
+
+  .abhi {
+    text-align: center;
+  }
+
+  h3 {
+    text-align: center;
+    background-color: lightgrey;
+    border: 2px solid lightgrey;
+    padding: 5px;
+  }
+
+  div {
+    background-color: linen;
+    margin: 10px;
+  }
+
+  #top {
+    padding: 10px;
+  }
+
+  #middle {
+    padding: 20px;
+  }
+
+  #container {
+    background-color: linen;
+    padding: 20px;
+  }
+
+  #container.h3 {
+    font-size: 70px;
+  }
+
+  #footer {
+    text-align: center;
+    padding: 20px;
+  }
+
+  input[type=text],
+  input[type=number],
+  select,
+  textarea {
+    width: 100%;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    border-radius: 5px;
+  }
+
+  input[type=submit] {
+    color: white;
+    background-color: lightseagreen;
+    pointer: cursor;
+    border-radius: 5px;
+  }
+
+  label {
+    font-style: bold;
+  }
+
+  h4 {
+    color: grey;
+    font-size: 2vw;
+  }
+
+  i {
+    color: black;
+  }
+
+  dl {
+    padding: 10px;
+  }
+
+  .about {
+    color: black;
+    text-align: center;
+    margin-left: 30px;
+    background-color: Lightcyan;
+    width: auto;
+    padding: 5px;
+  }
+
+  #a,
+  #b,
+  #c {
+    margin-right: 10px;
+  }
